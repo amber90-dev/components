@@ -1,0 +1,3 @@
+[submodule "components/component1"]
+	path = components/component1
+	url = https://github.com/amber90-dev/component1.git
